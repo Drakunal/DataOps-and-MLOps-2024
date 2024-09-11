@@ -26,8 +26,8 @@ This section hosts a series of practical experiments aligned with your course cu
 | **Experiment** | **Description** | **Link** |
 |:--------------:|:----------------|:--------:|
 | ![Outfit Recommender based on Weather](https://via.placeholder.com/150x100?text=Experiment+1) | *Understanding Git with Python project* | [Explore Experiment 1](https://github.com/Drakunal/weather-based-outfit-suggestion) |
-<!--| ![Experiment 2](https://via.placeholder.com/150x100?text=Experiment+2) | *Dive into MLOps deployment strategies with Experiment 2.* | [Explore Experiment 2](#) |
-| ![Experiment 3](https://via.placeholder.com/150x100?text=Experiment+3) | *Learn about continuous integration in data workflows with Experiment 3.* | [Explore Experiment 3](#) | -->
+| ![Data Version Control](https://via.placeholder.com/150x100?text=Experiment+2) | *Understanding the importance of version control in data and using DVC for the same.* | [Explore Experiment 2](https://drive.google.com/file/d/1ituAES8j21Op0J3tHmBLeGJC46zn5fjP/view?usp=drive_link) |
+<!--| ![Experiment 3](https://via.placeholder.com/150x100?text=Experiment+3) | *Learn about continuous integration in data workflows with Experiment 3.* | [Explore Experiment 3](#) | -->
 
 > *More experiments will be added throughout the semester!*
 

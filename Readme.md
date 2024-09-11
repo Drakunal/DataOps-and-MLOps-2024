@@ -25,7 +25,7 @@ This section hosts a series of practical experiments aligned with your course cu
 
 | **Experiment** | **Description** | **Link** |
 |:--------------:|:----------------|:--------:|
-| Outfit Recommender based on Weather | *Understanding Git with Python project* | [Explore Experiment 1](https://github.com/Drakunal/weather-based-outfit-suggestion) |
+| Outfit Recommender based on Weather | *Understanding Git with Python project with proper folder structure* | [Explore Experiment 1](https://github.com/Drakunal/weather-based-outfit-suggestion) |
 | Data Version Control | *Understanding the importance of version control in data and using DVC for the same.* | [Explore Experiment 2](https://drive.google.com/file/d/1ituAES8j21Op0J3tHmBLeGJC46zn5fjP/view?usp=drive_link) |
 <!--| ![Experiment 3](https://via.placeholder.com/150x100?text=Experiment+3) | *Learn about continuous integration in data workflows with Experiment 3.* | [Explore Experiment 3](#) | -->
 

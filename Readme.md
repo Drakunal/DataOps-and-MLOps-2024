@@ -28,7 +28,7 @@ This section hosts a series of practical experiments aligned with your course cu
 | Outfit Recommender based on Weather | *Understanding Git with Python project with proper folder structure* | [Explore Experiment 1](https://github.com/Drakunal/weather-based-outfit-suggestion) |
 | Data Version Control | *Understanding the importance of version control in data and using DVC for the same.* | [Explore Experiment 2](https://drive.google.com/file/d/1ituAES8j21Op0J3tHmBLeGJC46zn5fjP/view?usp=drive_link) |
 | OOP in ML | *Learn about OOP and it's importance in Machine Learning and other Programming Applications* | [Explore Experiment 3](https://github.com/Drakunal/Library-Management-System-OOP) |
-
+| AutoML | *Implement AutoML in python and understand it's advantages* | [Explore Experiment 4](https://github.com/Drakunal/AutoML) |
 > *More experiments will be added throughout the semester!*
 
 ---

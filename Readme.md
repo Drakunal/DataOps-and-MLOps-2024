@@ -31,7 +31,8 @@ This section hosts a series of practical experiments aligned with your course cu
 | AutoML | *Implement AutoML in python and understand it's advantages* | [Explore Experiment 4](https://github.com/Drakunal/AutoML) |
 | MLFlow - Experiment Tracking | *Experiment tracking in an existing ML Project with MLFlow* | [Explore Experiment 5](https://github.com/Drakunal/MLFlow---Experiment-Tracking) |
 | MLFlow - Model Serving and FastAPI | *Continuation of the previous lab, model serving and deployement is included. The entire thing can be tested using POSTMAN* | [Explore Experiment 6](https://github.com/Drakunal/MLFLOW-Model-Serving-and-FastAPI) |
-> *More experiments will be added throughout the semester!*
+| Docker - FastAPI| *Containerization of a FastAPI application using Docker* | [Explore Experiment 7](https://github.com/Drakunal/Docker-FastAPI) |
+
 
 ---
 
